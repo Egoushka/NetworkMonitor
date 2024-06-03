@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NetworkMonitor
+build_property.RootNamespace = NetworkMonitor
+build_property.ProjectDir = /Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Traffic/ConnectedDevicesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZmZpYy9Db25uZWN0ZWREZXZpY2VzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Traffic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZmZpYy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Traffic/OverallTrafficDataPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZmZpYy9PdmVyYWxsVHJhZmZpY0RhdGFQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Traffic/PortDataPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZmZpYy9Qb3J0RGF0YVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yehorHrabovskyi/RiderProjects/NetworkMonitor/NetworkMonitor/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-17x16orhuf
